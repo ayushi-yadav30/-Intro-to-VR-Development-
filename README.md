@@ -19,7 +19,9 @@ This repository documents my journey through the
 ---
 ## 📁 Repository Content
 📄 Day 1 VR Summary  
-🚀 Upcoming VR experiments & mini projects  
+📄 Day 2 & 3 Installed blender, Created First Scene
+📄 Day 4 Created Final Scene
+
 ---
 
 ## 🛠️ Tech Stack
