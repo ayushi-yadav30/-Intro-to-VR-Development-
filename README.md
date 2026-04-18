@@ -18,7 +18,7 @@ The scene includes:
 ## 📸 Screenshots
 <img width="1920" height="1020" alt="Screenshot 2026-04-18 161421" src="https://github.com/user-attachments/assets/7b67611b-ca5f-4456-be40-e311bfc3ec2e" />
 <img width="1920" height="1020" alt="Screenshot 2026-04-18 161519" src="https://github.com/user-attachments/assets/882e50b9-94c3-4af9-b67e-0299197bae05" />
-<img width="1920" height="1020" alt="Screenshot 2026-04-18 161519" src="https://github.com/user-attachments/assets/27fc2352-0c3b-4bb6-b0e9-747217273c49" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-18 161432" src="https://github.com/user-attachments/assets/8bdab086-e49c-4314-801e-fbcd5a63e13f" />
 
 
 ## 📚 Learning Outcomes
