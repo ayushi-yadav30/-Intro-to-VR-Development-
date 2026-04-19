@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is a 3D scene created using Blender as part of a Virtual Reality workshop.  
-The scene represents a simple workspace setup including objects like a table, laptop, lamp, books, plant, and wall.
+The scene represents a simple workspace setup including objects like a table, laptop, lamp, books, plant,frame and wall.
 
 ## 🛠️ Tools Used
 - Blender (3D Modeling & Rendering)
@@ -13,12 +13,13 @@ The scene includes:
 - Books arranged neatly
 - A table lamp for lighting effect
 - A plant (cylinder + sphere design)
+- A celestial sun  moon frame
 - Background wall for realism
 
 ## 📸 Screenshots
-<img width="1920" height="1020" alt="Screenshot 2026-04-18 161421" src="https://github.com/user-attachments/assets/7b67611b-ca5f-4456-be40-e311bfc3ec2e" />
-<img width="1920" height="1020" alt="Screenshot 2026-04-18 161519" src="https://github.com/user-attachments/assets/882e50b9-94c3-4af9-b67e-0299197bae05" />
-<img width="1920" height="1020" alt="Screenshot 2026-04-18 161432" src="https://github.com/user-attachments/assets/8bdab086-e49c-4314-801e-fbcd5a63e13f" />
+<img width="1152" height="1020" alt="view-5" src="https://github.com/user-attachments/assets/6fcbb0c5-5c70-4d43-8db2-417e508c1a26" />
+<img width="1152" height="1020" alt="view-1" src="https://github.com/user-attachments/assets/657e1bbf-415e-4a5f-8ee1-e7242efb8206" />
+<img width="1152" height="1020" alt="view-3 " src="https://github.com/user-attachments/assets/cda42825-5189-4014-b4ed-7a9d21825a1b" />
 
 
 ## 📚 Learning Outcomes
