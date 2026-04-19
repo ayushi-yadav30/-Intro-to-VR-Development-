@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a simple 3D workspace scene created using Blender. It includes a table setup with a laptop, lamp, books, and a plant.
+This project is a simple 3D workspace scene created using Blender. It includes a table setup with a laptop, lamp, books,frame and a plant.
 
 ## Improvements Made
 
